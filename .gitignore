@@ -1,0 +1,20 @@
+# Dependencies
+node_modules
+dist
+build
+.cache
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Replit
+.replit
+replit.nix
